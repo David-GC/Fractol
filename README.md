@@ -16,7 +16,7 @@ Currently only tested on OS X
 ```
 make
 ```
-### run
+### Run
 ```
 ./fractol mandelbrot
           "celtic mandelbar"
@@ -27,8 +27,8 @@ make
           heart
           julia
 ```
-### commands
-click on `option` to see commands
+### Commands
+Use the key `option` to see commands
 
 ## Examples
 
